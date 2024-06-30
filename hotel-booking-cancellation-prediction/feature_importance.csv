@@ -1,0 +1,26 @@
+feature_names,feature_importance
+lead time,4650
+average price,4108
+market segment type_Online,1267
+special requests_0,672
+number of week nights,575
+number of weekend nights,384
+guest type_single,321
+reservation season_Winter,270
+type of meal_Meal Plan 1,245
+guest type_couple,242
+reservation season_Summer,240
+transaction season_Spring,234
+night type_only weekdays,231
+number of adults,209
+transaction month_January,204
+special requests_3,178
+reservation month_November,152
+room type_Room_Type 1,148
+reservation month_April,140
+transaction month_February,137
+car parking space,133
+night type_mixed,89
+reservation month_December,75
+transaction month_July,68
+transaction month_April,28
